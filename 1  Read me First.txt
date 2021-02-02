@@ -1,0 +1,12 @@
+For Admin there are different admin log on but for testing I made
+UserName=Admin
+Password=admin
+
+For Employee there are also different login but for testing i made
+UserName=Employee
+Password=admin
+
+
+To Start Run index.php from local host but first import database.
+
+Database exported file is in database folder

@@ -1,0 +1,12 @@
+.btn{
+    justify-content: center;
+    margin-left: 500px;
+    background-color: darkmagenta;
+    border-collapse: collapse;
+}
+
+div, table, th, td {
+    padding: 10px;
+    border: 1px solid black; 
+    border-collapse: collapse;
+    }
